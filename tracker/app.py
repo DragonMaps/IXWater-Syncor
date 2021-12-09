@@ -49,7 +49,7 @@ def main():
 def index():
   if request.method == 'GET':
     #return render_template('input.html')
-    map_name = f"commercecity_outfalls.html"
+    map_name = f"commercecity_outfalls_8dec2021.html"
     #have to set map path - used by template
     map_path = os.path.join(app.root_path, 'static/' + map_name)
     app.vars['map_path'] = map_path
