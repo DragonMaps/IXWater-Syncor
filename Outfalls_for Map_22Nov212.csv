@@ -1,0 +1,23 @@
+﻿Outfall ,Description ,Latitude ,Longitude ,Wastewater Source ,Receiving Water 
+002B ,Internal outfall 002 ,39.8050 ,-104.9494 ,"Petroleum refining and related operations, groundwater remediation, and potentially petroleum contaminated storm water ",NA (see Outfall 020A) 
+003B ,Internal outfall 003 ,39.8072 ,-104.9475 ,Groundwater remediation ,NA (see Outfall 020A) 
+020A ,External outfall 020A (at outfall on Sand Creek) ,39.80853 ,-104.9476 ,Combination of treated wastewater from Outfalls 002 and 003 ,Sand Creek to South Platte River 
+020Z (for PFAS) ,External outfall 020A (at outfall on Sand Creek) ,39.80853 ,-104.9476 ,Combination of treated wastewater from Outfalls 002 and 003 ,Sand Creek to South Platte River 
+004A ,Mary’s Pond – Plant 3 (northwest corner outfall) ,39.8075 ,-104.946667 ,"Stormwater runoff from Plant 3 (asphalt plant) commingled with non-contact cooling water. (SWA** Nos. 6, 7, and 10) ",Sand Creek to South Platte River 
+004Z (for PFAS) ,Mary’s Pond – Plant 3 (northwest corner outfall) ,39.8075 ,-104.946667 ,"Stormwater runoff from Plant 3 (asphalt plant) commingled with non-contact cooling water. (SWA** Nos. 6, 7, and 10) ",Sand Creek to South Platte River 
+021A ,Nelson Property (northeast corner outfall) ,39.810278 ,-104.940556 ,Stormwater runoff from Suncor maintenance facility (SWA No. 4) ,Sand Creek to South Platte River 
+021Z (for PFAS) ,Nelson Property (northeast corner outfall) ,39.810278 ,-104.940556 ,Stormwater runoff from Suncor maintenance facility (SWA No. 4) ,Sand Creek to South Platte River 
+022A ,Nelson Property pond (northwest corner pond) ,39.810318 ,-104.943202 ,Stormwater runoff from Suncor maintenance facility (SWA No. 4) ,Sand Creek to South Platte River 
+022Z (for PFAS) ,Nelson Property pond (northwest corner pond) ,39.810318 ,-104.943202 ,Stormwater runoff from Suncor maintenance facility (SWA No. 4) ,Sand Creek to South Platte River 
+023A ,Detention area – Plant 1 (west end of swale) ,39.809017 ,-104.94901 ,"Stormwater runoff from Suncor Plant 1 (SWA Nos. 1 and 2), commingled with groundwater ",Sand Creek to South Platte River 
+023Z (for PFAS) ,Detention area – Plant 1 (west end of swale) ,39.809017 ,-104.94901 ,"Stormwater runoff from Suncor Plant 1 (SWA Nos. 1 and 2), commingled with groundwater ",Sand Creek to South Platte River 
+024A ,Detention area – Plant 2 (north end) ,39.804822 ,-104.942079 ,Stormwater runoff from Suncor Plant 2 (SWA No. 8) ,Sand Creek to South Platte River 
+024Z (for PFAS) ,Detention area – Plant 2 (north end) ,39.804822 ,-104.942079 ,Stormwater runoff from Suncor Plant 2 (SWA No. 8) ,Sand Creek to South Platte River 
+025A ,High flow outfall – Plant 1 (at sulfur rail loading gate) ,39.804025 ,-104.944022 ,Stormwater runoff from Suncor Plant 1 (SWA No. 3) ,Sand Creek to South Platte River 
+025Z (for PFAS) ,High flow outfall – Plant 1 (at sulfur rail loading gate) ,39.804025 ,-104.944022 ,Stormwater runoff from Suncor Plant 1 (SWA No. 3) ,Sand Creek to South Platte River 
+026A ,High flow outfall – Plant 3 (at ditch inlet to Mary’s Pond) ,39.80376 ,-104.940982 ,"Stormwater runoff from Suncor Plant 3 commingled with non-contact cooling water. (SWA Nos. 6, 7, and 10) ",Sand Creek to South Platte River 
+026Z (for PFAS) ,High flow outfall – Plant 3 (at ditch inlet to Mary’s Pond) ,39.80376 ,-104.940982 ,"Stormwater runoff from Suncor Plant 3 commingled with non-contact cooling water. (SWA Nos. 6, 7, and 10) ",Sand Creek to South Platte River 
+027A ,Accumulated Stormwater – Plant 2 ,39.801156, -104.94437 ,Accumulated stormwater runoff from East Tank Farm (Plant 2) ,Sand Creek to South Platte River 
+027Z (for PFAS) ,Accumulated Stormwater – Plant 2 ,39.801156,-104.94437 ,Accumulated stormwater runoff from East Tank Farm (Plant 2) ,Sand Creek to South Platte River 
+028A ,Retention pond – Plant 2 (southwest corner of Plant 2) ,39.796733,-104.95148 ,Stormwater runoff from Suncor Plant 2 area (SWA No. 9) ,unnamed tributary to South Platte River 
+028Z (for PFAS) ,Retention pond – Plant 2 (southwest corner of Plant 2) ,39.796733,-104.95148 ,Stormwater runoff from Suncor Plant 2 area (SWA No. 9) ,unnamed tributary to South Platte River 
